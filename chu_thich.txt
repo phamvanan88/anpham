@@ -1,0 +1,24 @@
+1. phan du lieu hien thi o serial monitor khi chay test_nrf24_v1.ino 
+(minh co an thu remote dieu hoa nhung no khong bat duoc tin hieu gi; doan tin hieu nay co phai tu nhieu cua cac thiet bi su dung wifi khong? :
+
+09:58:09.501 -> Received data from address: CE 1F F2 61 0  -> Data: E 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+09:58:09.635 -> Received data from address: 8E 78 97 97 E  -> Data: E 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+09:58:09.768 -> Received data from address: 34 62 7 D7 5E  -> Data: E 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+09:58:09.868 -> Received data from address: 47 A1 58 29 8E  -> Data: E 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+09:58:10.001 -> Received data from address: 5B A2 F5 62 46  -> Data: E 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+09:58:10.134 -> Received data from address: 86 9C C4 2E 36  -> Data: E 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+09:58:10.234 -> Received data from address: 2A 2 73 12 64  -> Data: E 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+09:58:10.367 -> Received data from address: E6 6 87 EF 53  -> Data: E 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+09:58:10.531 -> Received data from address: 9 D1 8 53 4F  -> Data: E 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+09:58:10.600 -> Received data from address: 51 F8 65 8F B4  -> Data: E 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+09:58:10.733 -> Received data from address: F0 80 B7 CB 19  -> Data: E 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+09:58:10.866 -> Received data from address: EE 9A EB D7 18  -> Data: E 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+09:58:10.999 -> Received data from address: CC 4F A2 7C 8C  -> Data: E 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+09:58:11.099 -> Received data from address: 37 DF C1 AD A5  -> Data: E 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+09:58:11.232 -> Received data from address: D1 33 D1 3A BE  -> Data: E 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 
+
+2. phan du lieu hien thi o serial monitor khi chay test_nrf24_v2.ino 
+(minh co an thu remote dieu hoa nhung no khong bat duoc tin hieu gi)
+
+10:47:48.375 -> Listening for signals...
